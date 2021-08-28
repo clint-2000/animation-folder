@@ -11,7 +11,7 @@ body {
 
 .folder {
   transition: all 0.2s ease-in;
-  padding-left: 130px;
+  padding-left: 120px;
 }
 .background h2 {
   color: #ffffff;
