@@ -3,7 +3,7 @@ body {
   padding: 0;
   width: 100%;
   height: 100vh;
-  background: #3e17eed2;
+  background: #3718c4f6;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -11,6 +11,13 @@ body {
 
 .folder {
   transition: all 0.2s ease-in;
+  padding-left: 95px;
+}
+.background h2 {
+  color: #ffffff;
+  margin-top: 50px;
+
+  text-transform: uppercase;
 }
 .folder__back {
   position: relative;
