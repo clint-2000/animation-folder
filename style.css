@@ -11,12 +11,11 @@ body {
 
 .folder {
   transition: all 0.2s ease-in;
-  padding-left: 95px;
+  padding-left: 120px;
 }
 .background h2 {
   color: #ffffff;
   margin-top: 50px;
-
   text-transform: uppercase;
 }
 .folder__back {
